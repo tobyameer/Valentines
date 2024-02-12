@@ -1,0 +1,35 @@
+.yes{
+    display: none;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.valentinesContainer{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+button {
+    margin: 4px;
+    color: white;
+    padding: 0 10px;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.yesButton{
+    background-color: green;
+    width: max-content;
+
+}
+
+.noButton{
+    background-color: red;
+    width: max-content;
+
+}
